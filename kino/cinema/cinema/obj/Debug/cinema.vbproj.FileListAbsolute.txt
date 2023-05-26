@@ -1,0 +1,15 @@
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\bin\Debug\cinema.exe.config
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\bin\Debug\cinema.exe
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\bin\Debug\cinema.pdb
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\bin\Debug\cinema.xml
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.vbproj.AssemblyReference.cache
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.vbproj.SuggestedBindingRedirects.cache
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.Resources.resources
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.vbproj.GenerateResource.cache
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.vbproj.CoreCompileInputs.cache
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.vbproj.CopyComplete
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.exe
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.xml
+C:\Users\CifronPro\Desktop\kino\cinema\cinema\obj\Debug\cinema.pdb
